@@ -1,16 +1,20 @@
-### Hi there 👋
+Hello, world!
+=============
+I do stuff. Rarely. Programming is just my hobby, so i don't write code often...
+But i'll post something there, i swear... Once i'll finish something.
 
-<!--
-**holy-8/holy-8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+"Main" languages:
+=================
+    - Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+"Just tried" languages:
+=======================
+    - C#
+    - Javascript
+    - C
+    - Rust
+
+My discord(-s):
+===========
+`@holy8`, `@why.so.nervous`
