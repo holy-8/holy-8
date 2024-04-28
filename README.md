@@ -15,6 +15,7 @@ But i'll post something there, i swear! Once i'll finish something...
 - Javascript
 - C
 - Rust
+- APL
 
 My discord:
 ===========
