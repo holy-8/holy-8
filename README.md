@@ -14,6 +14,7 @@ But i'll post something there, i swear! Once i'll finish something...
 - C#
 - Javascript
 - C
+- Haskell
 - Rust
 - APL
 
